@@ -1,0 +1,16 @@
+Bill of Material for 
+On 11/10/2014 at 12:53:12 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ BatteryHolder_CR123A BatterHolder_CR123A    1    B1                                                
+ Capacitor           Capacitor       19    C1, C2, C3, C4, C5, C6, C7                        
+                                           C8, C9, C10, C11, C12, C13
+                                           C14, C15, C16, C17, C18, C19
+ Connector_20021121_10pins 20021121-10pins    1    Q1                                                
+ INA2126_DIP16       INA2126_DIP16    1    U1                                                
+ Jack_36619_3pins    Jack_36619_3pads    4    CH1, CH2, REF, RL1                                
+ OPA2347_SOIC8       OPA2347P_SOIC8    4    O1, O2, O3, O4                                    
+ Resistor            Resisitor       18    R1, R2, R3, R4, R5, R6, R7                        
+                                           R8, R9, R10, R11, R12, R13
+                                           R14, R15, R16, R17, R18
